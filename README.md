@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ash914027&label=Profile%20views&color=0e75b6&style=flat" alt="Ash914027" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ash914027&theme=" alt="Ash914027" /></a> </p>
+
 
 - 🔭 I’m currently working on [ProPlanet: Your Path to Eco-Friendly Living](https://github.com/Ash914027/ProPlanet..sustainable_web_app)
 - 👯 I’m looking to collaborate on **problem solving project**
