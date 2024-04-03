@@ -1,5 +1,5 @@
 <img src="1.jpg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ashish Chauhan</h1>
+<h1 align="center">Hi,</h1><img align="right" src="https://tenor.com/en-GB/view/hand-gif-gif-27040745">alt="coding" width="50px"><h1> I'm Ashish Chauhan</h1>
 <h3 align="center">"Crafting code with fervor and skill, shaping digital worlds with precision and creativity"</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhZ2oyd3A3Mmlsd3llZnJ1NjB3dnZya3l1bWFwMDE0c2wwdGx1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ash914027&label=Profile%20views&color=0e75b6&style=flat" alt="Ash914027" /> </p>
