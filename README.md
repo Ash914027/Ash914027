@@ -1,4 +1,4 @@
-<img src="1.jpg" width="100%" />
+<img src="Navy Modern Digital Marketing Linkedin Banner.jpg" width="100%" />
 <h1 style="display: inline;">Hi, I'm Ashish Chauhan
 <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="40px" style="vertical-align: middle;"></h1>
 
