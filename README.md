@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="1.jpg" width="100%" />
 <h1 align="center">Hi 👋, I'm Ashish Chauhan</h1>
 <h3 align="center">"Crafting code with fervor and skill, shaping digital worlds with precision and creativity"</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJhZ2oyd3A3Mmlsd3llZnJ1NjB3dnZya3l1bWFwMDE0c2wwdGx1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
