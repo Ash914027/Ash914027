@@ -66,7 +66,7 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash914027&layout=compact&theme=" alt=Ash914027 />
-
+[![An image of @ash914027's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash914027)](https://holopin.io/@ash914027)
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash914027&show_icons=true&locale=en&theme=" alt="Ash914027" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash914027&theme=" alt="Ash914027" /></p>
