@@ -17,7 +17,7 @@
 - 💬 Ask me about **react**
 - 📫 How to reach me **ashishchauhan7401@gmail.com**
 - 👨‍💻 All of my projects are available at **ashish.coder.unaux.com**
-- 📄 Know about my experiences **http://homeverse.liveblog365.com/**
+- 📄 Know about my experiences **https://ashishchauhan-coder.netlify.app/**
 - ⚡ Fun fact **The term "bug" for computer glitch came from a real insect found in 194**
 
 <div> <a href="https://www.linkedin.com/in/ashish-chauhan-b986a6252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
