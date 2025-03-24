@@ -80,3 +80,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ash914027&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ash914027&theme=2077" height="180em" />
 </div>
+[![An image of @ash914027's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash914027)](https://holopin.io/@ash914027)
