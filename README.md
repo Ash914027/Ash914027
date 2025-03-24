@@ -27,6 +27,12 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish-chauhan-b986a6252" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ashish-chauhan-b986a6252" height="30" width="40" /></a><a href="https://www.hackerrank.com/ashish_chauhan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="ashish_chauhan9" height="30" width="40" /></a><a href="https://www.leetcode.com/Ash914027" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Ash914027" height="30" width="40" /></a><a href="https://instagram.com/ashishchauhan6428" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ashishchauhan6428" height="30" width="40" /></a><a href="https://www.codechef.com/users/ashishchauhan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="ashishchauhan6" height="30" width="40" /></a></p>
+<br>
+
+<h3 align="left">Hactoberfest badges:</h3>
+
+[![An image of @ash914027's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash914027)](https://holopin.io/@ash914027)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -66,7 +72,7 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash914027&layout=compact&theme=" alt=Ash914027 />
-[![An image of @ash914027's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ash914027)](https://holopin.io/@ash914027)
+
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ash914027&show_icons=true&locale=en&theme=" alt="Ash914027" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ash914027&theme=" alt="Ash914027" /></p>
